@@ -1,0 +1,38 @@
+[
+   {
+      "id": "d4c0ed7c-0296-4e6b-9798-af70d559e766",
+      "brand": "asus vivobook",
+      "RAM": "16gb",
+      "Processor": "intel core i7 ",
+      "Color": "black",
+      "Memory": "512gb ssd",
+      "Price": "720$"
+   },
+   {
+      "id": "0352e6d1-a7ef-4b2c-98d1-1342475450e3",
+      "brand": "acer",
+      "RAM": "8gb",
+      "Processor": "core i5",
+      "Color": "grey",
+      "Memory": "1tb ili 128gb ssd",
+      "Price": "600$"
+   },
+   {
+      "id": "a87f7c78-cca9-4404-8d87-f8ae2cc6e664",
+      "brand": "hp victus",
+      "RAM": "16gb",
+      "Processor": "core i7",
+      "Color": "black",
+      "Memory": "512 gb ssd",
+      "Price": "730$"
+   },
+   {
+      "id": "e2cbb798-6f2e-4e8f-b729-5fd81bfa0d81",
+      "brand": "asus rock star",
+      "RAM": "16gb",
+      "Processor": "core i9",
+      "Color": "while",
+      "Memory": "512 gb",
+      "Price": "820$"
+   }
+]
